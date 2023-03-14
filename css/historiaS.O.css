@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+.txt3{font-family: 'Fredoka One', cursive;}
+
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+.txt2{
+	font-family: 'Tenor Sans', sans-serif;
+}
+.txt{
+	text-justify:distribute;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	border: double;
+	border-radius: 30px;
+	line-height:1cm;
+	font-size: 12px;
+	color:rgb(69, 212, 69) ;
+	background-color: rgb(168, 255, 184);
+	border-color: rgb(0, 0, 0);
+}
+.img1{
+	width: 10%;
+}
+.txt4{color: rgb(87, 161, 87);}
+
+.img2{float: right;}
+.img3{float: left;}

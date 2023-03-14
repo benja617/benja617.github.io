@@ -1,0 +1,59 @@
+			*{
+				margin: 0px;
+				padding: 0px;
+			}
+
+			body{
+				background-color: #D5DDE3; 
+			}
+
+			#titulo{
+				font-family: "Bell MT";
+				font-size: 50px;
+				background-color: #78AFD8;
+				text-align: center;
+			}
+
+			#subtitulo{
+				font-family: "Bell MT";
+				font-size: 35px;
+				margin-top: 20px;
+				margin-left: 20px;
+				text-decoration: underline;
+			}
+
+			#contenido{
+				font-family: "Bell MT";
+				font-size: 29px;
+				margin-top: 10px;
+			}
+
+			#contenido p{
+				margin-top: 5px;
+				margin-left: 40px;
+				text-align: justify;
+			}
+
+			.img1{
+
+				margin: 10px;
+				margin-top: 0px;
+				border: double;
+				border-radius: 30px;
+				transition: 1.5s;
+			}
+
+			.img2{
+				margin: 30px;
+				margin-top: 0px;
+				border: double;
+				transition: 1.5s;
+			}
+
+			.img3:hover{
+				width: 40%;
+			}
+
+			.Boton{
+				margin-left: 1680px
+			}
