@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+h1{color: black;
+    text-shadow: 1px 2px 2px black. 0 0 25px blue, 0 0 5px blue;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;}
+ h2{color: black;
+    text-shadow: 1px 2px 2px black. 0 0 25px blue, 0 0 5px blue;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;}
+ 
+ .color2{color: lightpink;
+    text-shadow: 1px 2px 2px black. 0 0 25px blue, 0 0 5px blue;
+    text-align: center;}
+ 
+ .color{color: white;
+    text-shadow: 1px 2px 2px black. 0 0 25px blue, 0 0 5px blue;
+    text-align: center;}
+ 
+ div.galeria{margin: 50px 100px;
+             box-shadow:rgba(0,0,0,0.19) 4px 8px 0 lightskyblue, 0 6px 20px 0;
+             float: left;
+             width: 500px}
+
+ div.galeria2{margin: 50px 100px;
+ box-shadow:rgba(0,0,0,0.19) 4px 8px 0 lightskyblue, 0 6px 20px 0;
+ float: left;
+ width: 500px;
+align-items: center;}
+ 
+ div.galeria img{
+     width: auto;
+     height: 200px;
+     align-content: left;
+ }
+ 
+ div.galeria:hover{
+     border: 2px solid honeydew;
+     transform: rotate(-3deg);
+ }
+ 
+ div.pie{
+     text-align: center;
+     text-shadow: 2px 2px 5px purple;
+     padding: 10px;
+ }
+ 
+ div.pie2{
+     text-align: center;
+     text-shadow: 2px 2px 5px green;
+     padding: 10px;
+ }
+ 
+ div.pie3{
+     text-align: center;
+     text-shadow: 2px 2px 5px powderblue;
+     padding: 10px;
+ }
+ 
+ .titulo1{text-align: center;
+     text-shadow: 2px 2px 5px powderblue;
+     padding: 10px;}
+ 
+ .titulo2{text-align: center;
+     text-shadow: 2px 2px 5px rebeccapurple;
+     padding: 10px;}
+ 
+ .centro{
+    align-items: center;
+ }
+ .img4{
+    float:right ;
+    border-radius: 30px;
+    height: 300px;
+    width: auto;
+    align-items: center;
+	border: double;
+	transition: 1.5s;
+ }
