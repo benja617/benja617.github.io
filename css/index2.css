@@ -21,7 +21,7 @@ section {
 	margin-bottom: 20px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 568px) {
 	header {
 		flex-direction: column;
 		align-items: flex-start;
@@ -46,3 +46,13 @@ section {
 }
 .fuente1{font-family: 'Edu NSW ACT Foundation', cursive;}
 .fuente2{font-family: 'Playfair Display', serif;}
+.container {
+	width: 96%;
+	max-width: 960px;
+	margin: 0 auto;
+	}
+.img {
+	width: 100%;
+	height: auto;
+	}
+	Ta
